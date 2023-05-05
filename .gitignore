@@ -1,0 +1,23 @@
+.vscode
+Logs
+Packages
+UserSettings
+Library
+obj
+*.csproj
+ProjectSettings
+Temp
+Assets/*
+!Assets/*.cs
+
+!Assets/Behavior Scripts
+Assets/Behavior Scripts/*
+!Assets/Behavior Scripts/*.cs
+
+!Assets/Editor
+Assets/Editor/*
+!Assets/Editor/*.cs
+
+!Assets/Filter Scripts
+Assets/Filter Scripts/*
+!Assets/Filter Scripts/*.cs
